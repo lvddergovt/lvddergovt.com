@@ -7,9 +7,5 @@ body {
   height: 100vh;
   display: flex;
   justify-content: center;
-  padding-top: 20%;
-}
-
-img {
-  max-width: 100%;
+  align-items: center;
 }
